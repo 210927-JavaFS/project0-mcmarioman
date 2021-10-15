@@ -1,0 +1,446 @@
+11:13:37.971 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+11:14:00.320 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+11:14:08.051 [] [main] INFO  c.r.controllers.MenuController - Logged in as employee.
+11:16:58.513 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+11:17:04.387 [User Name=mario.vidal] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+11:26:10.124 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+11:26:11.696 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+11:26:21.784 [User Name=bank.teller] [main] INFO  c.r.controllers.MenuController - Logged in as employee.
+11:26:23.576 [User Name=bank.teller] [main] INFO  c.r.controllers.MenuController - In to user search.
+16:34:27.261 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+16:34:27.523 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:34:27.536 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+16:41:57.001 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+16:41:57.998 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:41:58.006 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+16:41:58.250 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:41:58.252 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+20:30:56.448 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+20:30:57.441 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+20:30:57.447 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+20:30:58.471 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+20:30:58.476 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+20:30:58.726 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+20:30:58.729 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+21:55:52.073 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+21:55:53.129 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:55:53.134 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+21:55:54.107 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:55:54.108 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+21:55:54.380 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:55:54.382 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+21:55:56.105 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:55:56.111 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+21:58:49.434 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+21:58:50.424 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:58:50.430 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+21:58:51.421 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:58:51.422 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+21:58:51.753 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:58:51.755 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+21:58:53.840 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+21:58:53.845 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:00:05.039 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:00:06.102 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:00:06.108 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:00:07.772 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:00:07.774 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:00:08.028 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:00:08.029 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:00:10.335 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:00:10.337 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:01:42.611 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:01:43.614 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:01:43.620 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:01:44.797 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:01:44.802 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:01:45.048 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:01:45.049 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:01:46.788 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:01:46.793 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:04:59.238 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:05:00.302 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:05:00.307 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:05:01.251 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:05:01.253 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:05:01.487 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:05:01.488 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:05:03.408 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:05:03.409 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:10:10.690 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:10:11.647 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:10:11.651 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+22:10:13.993 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:10:13.996 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:10:15.042 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:10:15.043 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:10:15.298 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:10:15.299 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:10:17.061 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:10:17.062 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:11:16.873 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:11:18.083 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:11:18.088 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+22:11:20.695 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:11:20.696 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:11:21.646 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:11:21.647 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:11:21.889 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:11:21.890 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:11:23.473 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:11:23.474 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:15:28.604 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:15:29.508 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:15:29.514 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+22:15:30.588 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:15:30.589 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+22:15:32.936 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:15:32.937 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:15:34.190 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:15:34.191 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:15:34.419 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:15:34.420 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:15:36.052 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:15:36.053 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:27:46.866 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+22:27:47.766 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:47.770 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+22:27:49.864 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:49.865 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+22:27:50.833 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:50.834 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+22:27:53.153 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:53.154 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+22:27:54.061 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:54.062 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+22:27:54.273 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:54.274 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+22:27:55.909 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+22:27:55.911 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+22:39:47.039 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+07:02:32.581 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+10:06:01.717 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+10:06:01.962 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:01.970 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+10:06:02.951 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:02.952 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+10:06:05.121 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:05.122 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+10:06:06.039 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:06.040 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+10:06:08.413 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:08.414 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+10:06:09.421 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:09.421 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+10:06:09.632 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:09.633 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+10:06:12.539 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:06:12.541 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+10:10:34.472 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+10:10:35.384 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:35.389 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+10:10:37.579 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:37.580 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+10:10:38.535 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:38.536 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+10:10:40.809 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:40.811 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+10:10:41.781 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:41.782 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+10:10:42.008 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:42.009 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+10:10:42.377 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:42.378 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+10:10:43.991 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:10:43.992 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+10:11:19.592 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+10:11:19.861 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:19.865 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+10:11:20.774 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:20.775 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+10:11:22.847 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:22.848 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+10:11:23.741 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:23.743 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+10:11:26.028 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:26.029 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+10:11:26.962 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:26.963 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+10:11:27.183 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:27.184 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+10:11:27.397 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:27.398 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+10:11:29.127 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:11:29.129 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+10:19:40.473 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+10:19:40.728 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:40.732 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+10:19:41.645 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:41.646 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+10:19:43.927 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:43.928 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+10:19:44.818 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:44.819 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+10:19:47.336 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:47.337 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+10:19:48.261 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:48.262 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+10:19:48.481 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:48.481 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+10:19:48.731 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:48.733 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+10:19:48.960 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:48.961 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+10:19:50.613 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:19:50.614 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+10:24:00.901 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+10:24:02.900 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+10:24:10.797 [User Name=bank.admin] [main] INFO  c.r.controllers.MenuController - Logged in as admin.
+10:24:13.046 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - Session ends.
+10:24:26.785 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+10:24:27.150 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:27.155 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+10:24:29.002 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:29.003 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+10:24:32.573 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:32.574 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+10:24:33.546 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:33.547 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+10:24:36.058 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:36.059 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+10:24:36.977 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:36.978 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+10:24:37.225 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:37.226 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+10:24:37.464 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:37.467 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+10:24:37.682 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:37.684 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+10:24:39.335 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:24:39.337 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+10:25:41.393 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+10:25:41.675 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:41.679 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+10:25:42.580 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:42.581 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+10:25:44.654 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:44.655 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+10:25:45.624 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:45.625 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+10:25:48.081 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:48.082 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+10:25:49.026 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:49.028 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+10:25:49.261 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:49.262 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+10:25:49.587 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:49.588 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+10:25:49.806 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:49.807 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+10:25:51.394 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+10:25:51.396 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+14:52:38.377 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+14:52:45.818 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+14:52:53.291 [User Name=mario.vidal] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+14:52:55.912 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+14:53:04.228 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to deposit funds.
+14:53:13.105 [User Name=mario.vidal] [main] WARN  c.r.controllers.CustomerController - Account inactive or invalid!
+14:53:18.026 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to deposit funds.
+14:53:36.941 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+14:53:53.486 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to withdraw funds
+14:54:08.616 [User Name=mario.vidal] [main] WARN  c.r.controllers.CustomerController - Withdras failed not enough funds, amount: 200.0,  account: 1000
+14:54:21.022 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to withdraw funds
+14:54:35.219 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - User withdrew 25.0 from account 1000
+14:54:40.472 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+14:54:57.577 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to transfer funds
+14:55:21.834 [User Name=mario.vidal] [main] WARN  c.r.controllers.CustomerController - Transfer failed, amount: 100.0 from Account number: 1000 - Account type: Checking - Status: [32mActive[0m - Balance: $75.00 to Account number: 1001 - Account type: Saving - Status: [32mActive[0m - Balance: $0.00
+16:03:02.112 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:03:04.775 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:03:12.383 [User Name=mario.vidal] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+16:04:14.783 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to transfer funds
+16:04:34.585 [User Name=mario.vidal] [main] WARN  c.r.controllers.CustomerController - Transfer failed, amount: 1000.0 from Account number: 1000 - Account type: Checking - Status: [32mActive[0m - Balance: $75.00 to Account number: 1001 - Account type: Saving - Status: [32mActive[0m - Balance: $0.00
+16:04:46.462 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to transfer funds
+16:05:00.925 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - User transfered 25.0 from Account number: 1000 - Account type: Checking - Status: [32mActive[0m - Balance: $75.00 to Account number: 1001 - Account type: Saving - Status: [32mActive[0m - Balance: $0.00
+16:05:03.852 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+16:05:22.711 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - Session ends.
+16:05:35.942 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:05:37.795 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:05:45.434 [User Name=bank.admin] [main] INFO  c.r.controllers.MenuController - Logged in as admin.
+16:05:48.126 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Customer search
+16:05:50.126 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing accounts info of: mario.vidal
+16:06:04.636 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Customer search
+16:06:06.016 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing accounts info of: mario.vidal
+16:06:07.692 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing accounts info of: mike.user
+16:06:21.684 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account information
+16:06:24.356 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1000
+16:06:35.011 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Deposit funds to an account
+16:06:49.017 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - User credited 25.0 from account 1001
+16:06:56.241 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account information
+16:06:58.495 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1001
+16:07:13.369 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Withdraw funds from an account
+16:07:27.190 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - User withdrew 10.0 from account 1001
+16:07:35.560 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account information
+16:07:38.504 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1001
+16:07:54.811 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account requests
+16:08:03.037 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Transfer funds between accounts
+16:08:15.061 [User Name=bank.admin] [main] WARN  c.r.controllers.AdminController - Account inactive or invalid!
+16:08:30.690 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Transfer funds between accounts
+16:09:07.296 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - User transfered 10.0 from 1001 to 1002
+16:09:13.254 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account information
+16:09:16.974 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1002
+16:09:22.065 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account information
+16:09:28.060 [User Name=bank.admin] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1001
+16:09:36.525 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to View account requests
+16:09:42.181 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - In to Cancel an account
+16:09:47.170 [User Name=bank.admin] [main] WARN  c.r.controllers.AdminController - Canceling account failed, account 1001 still has postive balance
+16:09:57.623 [User Name=bank.admin] [main] INFO  c.r.controllers.AdminController - Session ends.
+16:10:03.942 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:10:06.159 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:10:15.305 [User Name=bank.teller] [main] INFO  c.r.controllers.MenuController - Logged in as employee.
+16:10:20.565 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - In to user search.
+16:10:22.306 [User Name=bank.teller] [main] INFO  c.r.controllers.BankController - User reviewing accounts info of: mario.vidal
+16:10:24.070 [User Name=bank.teller] [main] INFO  c.r.controllers.BankController - User reviewing accounts info of: mike.user
+16:10:30.992 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - In to view account info.
+16:10:33.227 [User Name=bank.teller] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1002
+16:10:41.996 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - In to approve account requests.
+16:10:46.534 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - Session ends.
+16:16:11.978 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:16:15.475 [] [main] INFO  c.r.controllers.MenuController - In to register new user module
+16:16:21.389 [] [main] WARN  c.r.controllers.MenuController - User name is not available.
+16:16:26.139 [] [main] INFO  c.r.controllers.MenuController - In to register new user module
+16:17:36.163 [] [main] INFO  c.r.controllers.MenuController - User registered successfully
+16:17:39.470 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:17:48.682 [User Name=tyler.repp] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+16:17:50.823 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+16:18:03.643 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to deposit funds.
+16:18:08.977 [User Name=tyler.repp] [main] WARN  c.r.controllers.CustomerController - Account inactive or invalid!
+16:18:16.306 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to apply to a new account
+16:18:32.096 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - User applied to a new Checking account
+16:18:38.178 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+16:18:48.085 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to deposit funds.
+16:18:53.510 [User Name=tyler.repp] [main] WARN  c.r.controllers.CustomerController - Account inactive or invalid!
+16:19:11.783 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - Session ends.
+16:19:16.713 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:19:20.407 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:19:35.015 [User Name=bank.teller] [main] INFO  c.r.controllers.MenuController - Logged in as employee.
+16:19:40.277 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - In to approve account requests.
+16:20:01.603 [User Name=bank.teller] [main] INFO  c.r.controllers.BankController - User approved account: 1003
+16:20:05.842 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - In to view account info.
+16:20:08.421 [User Name=bank.teller] [main] INFO  c.r.controllers.BankController - User reviewing account info: 1003
+16:20:17.842 [User Name=bank.teller] [main] INFO  c.r.controllers.EmployeeController - Session ends.
+16:20:21.082 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:20:22.832 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:20:31.350 [User Name=tyler.repp] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+16:20:33.561 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to deposit funds.
+16:21:13.052 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - In to check account balance
+16:21:17.113 [User Name=tyler.repp] [main] INFO  c.r.controllers.CustomerController - Session ends.
+16:31:04.941 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountTypes
+16:31:05.176 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:05.183 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+16:31:05.435 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:05.436 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+16:31:06.425 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:06.426 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountById
+16:31:06.645 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:06.646 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+16:31:08.834 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:08.835 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+16:31:09.796 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:09.798 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+16:31:12.904 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:12.905 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+16:31:12.906 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:12.907 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+16:31:13.152 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:13.152 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+16:31:13.357 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:13.358 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+16:31:13.579 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:13.580 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+16:31:15.223 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:15.224 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+16:31:55.677 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountTypes
+16:31:56.101 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:56.108 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+16:31:56.503 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:56.504 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+16:31:57.521 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:57.522 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountById
+16:31:57.739 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:57.740 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+16:31:59.827 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:31:59.828 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+16:32:01.223 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:01.224 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+16:32:04.292 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:04.293 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+16:32:04.293 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:04.294 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+16:32:04.526 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:04.527 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+16:32:04.745 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:04.746 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+16:32:04.980 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:04.981 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+16:32:11.706 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountTypes
+16:32:11.964 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:11.969 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+16:32:12.221 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:12.222 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+16:32:13.124 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:13.125 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountById
+16:32:13.377 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:13.378 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+16:32:15.435 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:15.436 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+16:32:16.429 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:16.430 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+16:32:19.446 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:19.447 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+16:32:19.447 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:19.448 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+16:32:19.675 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:19.676 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+16:32:19.907 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:19.908 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+16:32:20.149 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:20.149 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+16:32:21.828 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:32:21.830 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+16:39:24.057 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountTypes
+16:39:24.295 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:24.299 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testLogin
+16:39:24.564 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:24.565 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testValidateAccount
+16:39:25.517 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:25.518 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountById
+16:39:25.767 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:25.768 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testTransferFunds
+16:39:28.070 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:28.071 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountByNumber
+16:39:29.002 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:29.003 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserStatusId
+16:39:32.474 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:32.475 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testwithdrawFunds
+16:39:32.475 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:32.476 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testIsUserNameAvailable
+16:39:32.698 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:32.699 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testFindCustomerByName
+16:39:32.933 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:32.934 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testDepositFunds
+16:39:33.164 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:33.165 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In testGetAccountsByUserId
+16:39:34.882 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - In clearResult
+16:39:34.884 [] [main] INFO  c.revature.util.ProjectZeroUtilTest - in clearProjectZeroUtil
+16:39:42.049 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:39:46.496 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:39:51.336 [] [main] WARN  c.r.controllers.MenuController - Invalid username or password!
+16:39:54.123 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:39:58.860 [User Name=mario.vidal] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+16:40:01.427 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - Session ends.
+16:43:27.158 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:44:22.818 [] [main] INFO  c.r.controllers.MenuController - In to log in module
+16:44:28.717 [User Name=mario.vidal] [main] INFO  c.r.controllers.MenuController - Logged in as customer.
+16:44:30.722 [User Name=mario.vidal] [main] INFO  c.r.controllers.CustomerController - Session ends.
+16:45:43.577 [] [main] INFO  c.r.controllers.MenuController - Application starts.
+16:45:47.965 [] [main] INFO  c.r.controllers.MenuController - Session ends.
